@@ -7,3 +7,7 @@ Jecid Alberto Silva
 - Primero se creó el formulario de registro de Amazon.
 
 - Se cambió por el de Adobe porque una compañera ya había hecho el mismo
+
+-------- Evaluación Unidad 1 HTML Y CSS GRID --------
+
+- crear carpeta y documentos necesarios
