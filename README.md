@@ -13,3 +13,7 @@ Jecid Alberto Silva
 -------- Evaluación Unidad 1 HTML Y CSS GRID --------
 
 - crear carpeta y documentos necesarios
+
+-------- Foro Unidad 1 Variables css --------
+
+- Crear carpeta y documentos para la actividad de foro
